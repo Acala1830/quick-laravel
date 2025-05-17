@@ -1,2 +1,5 @@
 サーバー起動(8000)
 php artisan serve
+php artisan make:controller コントローラー名
+php artisan make:component コンポーネント名
+php artisan make:controller コントローラー名 --resource --model=モデル名
