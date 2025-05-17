@@ -1,0 +1,2 @@
+サーバー起動(8000)
+php artisan serve
